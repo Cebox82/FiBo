@@ -27,4 +27,10 @@
     <color name="initial_background">#143166</color>
     <color name="iconColor">#FF000000</color>
     <color name="FAB_color">#B6CBF2</color>
+
+    <!--  <color name="mockup_purple">#6750A4</color>-->
+    <color name="hint_text_blue">#12598F</color>
+    <color name="light_primary">#C8E4FA</color>
+    <color name="application_background">#FEFAFD</color>
+    <color name="field_stroke_color">#CCCCCC</color>
 </resources>
